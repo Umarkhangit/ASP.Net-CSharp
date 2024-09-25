@@ -1,0 +1,251 @@
+D:\Work\CRUD-WebService\CRUD-WebService\bin\CRUD-WebService.dll.config
+D:\Work\CRUD-WebService\CRUD-WebService\bin\CRUD-WebService.dll
+D:\Work\CRUD-WebService\CRUD-WebService\bin\CRUD-WebService.pdb
+D:\Work\CRUD-WebService\CRUD-WebService\bin\roslyn\csc.exe
+D:\Work\CRUD-WebService\CRUD-WebService\bin\roslyn\csc.exe.config
+D:\Work\CRUD-WebService\CRUD-WebService\bin\roslyn\csc.rsp
+D:\Work\CRUD-WebService\CRUD-WebService\bin\roslyn\csi.exe
+D:\Work\CRUD-WebService\CRUD-WebService\bin\roslyn\csi.exe.config
+D:\Work\CRUD-WebService\CRUD-WebService\bin\roslyn\csi.rsp
+D:\Work\CRUD-WebService\CRUD-WebService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Work\CRUD-WebService\CRUD-WebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Work\CRUD-WebService\CRUD-WebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Work\CRUD-WebService\CRUD-WebService\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Work\CRUD-WebService\CRUD-WebService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Work\CRUD-WebService\CRUD-WebService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Work\CRUD-WebService\CRUD-WebService\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Work\CRUD-WebService\CRUD-WebService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Work\CRUD-WebService\CRUD-WebService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Work\CRUD-WebService\CRUD-WebService\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Work\CRUD-WebService\CRUD-WebService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Work\CRUD-WebService\CRUD-WebService\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Work\CRUD-WebService\CRUD-WebService\bin\roslyn\System.AppContext.dll
+D:\Work\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Collections.Immutable.dll
+D:\Work\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Console.dll
+D:\Work\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Work\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Work\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Work\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Globalization.Calendars.dll
+D:\Work\CRUD-WebService\CRUD-WebService\bin\roslyn\System.IO.Compression.dll
+D:\Work\CRUD-WebService\CRUD-WebService\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Work\CRUD-WebService\CRUD-WebService\bin\roslyn\System.IO.FileSystem.dll
+D:\Work\CRUD-WebService\CRUD-WebService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Work\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Net.Http.dll
+D:\Work\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Net.Sockets.dll
+D:\Work\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Reflection.Metadata.dll
+D:\Work\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Work\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Work\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Work\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Work\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Work\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Work\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Work\CRUD-WebService\CRUD-WebService\bin\roslyn\System.ValueTuple.dll
+D:\Work\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Work\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Work\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Xml.XPath.dll
+D:\Work\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Work\CRUD-WebService\CRUD-WebService\bin\roslyn\vbc.exe
+D:\Work\CRUD-WebService\CRUD-WebService\bin\roslyn\vbc.exe.config
+D:\Work\CRUD-WebService\CRUD-WebService\bin\roslyn\vbc.rsp
+D:\Work\CRUD-WebService\CRUD-WebService\bin\roslyn\VBCSCompiler.exe
+D:\Work\CRUD-WebService\CRUD-WebService\bin\roslyn\VBCSCompiler.exe.config
+D:\Work\CRUD-WebService\CRUD-WebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Work\CRUD-WebService\CRUD-WebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Work\CRUD-WebService\CRUD-WebService\obj\Debug\CRUD-WebService.csproj.AssemblyReference.cache
+D:\Work\CRUD-WebService\CRUD-WebService\obj\Debug\CRUD-WebService.csproj.CoreCompileInputs.cache
+D:\Work\CRUD-WebService\CRUD-WebService\obj\Debug\CRUD-Web.08E20AF6.Up2Date
+D:\Work\CRUD-WebService\CRUD-WebService\obj\Debug\CRUD-WebService.dll
+D:\Work\CRUD-WebService\CRUD-WebService\obj\Debug\CRUD-WebService.pdb
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\bin\CRUD-WebService.dll.config
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\bin\CRUD-WebService.dll
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\bin\CRUD-WebService.pdb
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\bin\roslyn\csc.exe
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\bin\roslyn\csc.exe.config
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\bin\roslyn\csc.rsp
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\bin\roslyn\csi.exe
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\bin\roslyn\csi.exe.config
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\bin\roslyn\csi.rsp
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\bin\roslyn\System.AppContext.dll
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Collections.Immutable.dll
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Console.dll
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Globalization.Calendars.dll
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\bin\roslyn\System.IO.Compression.dll
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\bin\roslyn\System.IO.FileSystem.dll
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Net.Http.dll
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Net.Sockets.dll
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Reflection.Metadata.dll
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\bin\roslyn\System.ValueTuple.dll
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Xml.XPath.dll
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\bin\roslyn\vbc.exe
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\bin\roslyn\vbc.exe.config
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\bin\roslyn\vbc.rsp
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\bin\roslyn\VBCSCompiler.exe
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\bin\roslyn\VBCSCompiler.exe.config
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\obj\Debug\CRUD-WebService.csproj.AssemblyReference.cache
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\obj\Debug\CRUD-WebService.csproj.CoreCompileInputs.cache
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\obj\Debug\CRUD-Web.08E20AF6.Up2Date
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\obj\Debug\CRUD-WebService.dll
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\obj\Debug\CRUD-WebService.pdb
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\bin\Newtonsoft.Json.dll
+D:\Umar practice\Learnings\CRUD-WebService\CRUD-WebService\bin\Newtonsoft.Json.xml
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\CRUD-WebService.dll.config
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\CRUD-WebService.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\CRUD-WebService.pdb
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\roslyn\csc.exe
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\roslyn\csc.exe.config
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\roslyn\csc.rsp
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\roslyn\csi.exe
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\roslyn\csi.exe.config
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\roslyn\csi.rsp
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\roslyn\System.AppContext.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Collections.Immutable.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Console.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Globalization.Calendars.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\roslyn\System.IO.Compression.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\roslyn\System.IO.FileSystem.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Net.Http.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Net.Sockets.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Reflection.Metadata.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\roslyn\System.ValueTuple.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Xml.XPath.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\roslyn\vbc.exe
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\roslyn\vbc.exe.config
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\roslyn\vbc.rsp
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\roslyn\VBCSCompiler.exe
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\roslyn\VBCSCompiler.exe.config
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\Newtonsoft.Json.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\Newtonsoft.Json.xml
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\obj\Debug\CRUD-WebService.csproj.AssemblyReference.cache
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\obj\Debug\CRUD-WebService.csproj.CoreCompileInputs.cache
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\obj\Debug\CRUD-Web.08E20AF6.Up2Date
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\obj\Debug\CRUD-WebService.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\obj\Debug\CRUD-WebService.pdb
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\Azure.Core.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\Azure.Identity.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\Microsoft.Data.SqlClient.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\Microsoft.Identity.Client.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\Microsoft.IdentityModel.Abstractions.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\Microsoft.IdentityModel.Logging.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\Microsoft.IdentityModel.Protocols.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\System.Buffers.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\System.ClientModel.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\System.Configuration.ConfigurationManager.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\System.IO.FileSystem.AccessControl.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\System.Memory.Data.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\System.Memory.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\System.Numerics.Vectors.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\System.Security.AccessControl.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\System.Security.Cryptography.ProtectedData.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\System.Security.Permissions.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\System.Security.Principal.Windows.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\System.Text.Encodings.Web.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\System.Text.Json.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\System.Threading.Tasks.Extensions.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\System.ValueTuple.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\Azure.Core.xml
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\Azure.Identity.xml
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\Microsoft.Data.SqlClient.xml
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\Microsoft.Identity.Client.xml
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\Microsoft.IdentityModel.Abstractions.xml
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\Microsoft.IdentityModel.Logging.xml
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\Microsoft.IdentityModel.Protocols.xml
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\System.Buffers.xml
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\System.ClientModel.xml
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\System.Configuration.ConfigurationManager.xml
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\System.IO.FileSystem.AccessControl.xml
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\System.Memory.xml
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\System.Memory.Data.xml
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\System.Numerics.Vectors.xml
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\System.Security.AccessControl.xml
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\System.Security.Cryptography.ProtectedData.xml
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\System.Security.Permissions.xml
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\System.Security.Principal.Windows.xml
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\System.Text.Encodings.Web.xml
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\System.Text.Json.xml
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\System.Threading.Tasks.Extensions.xml
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\System.ValueTuple.xml
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\de\Microsoft.Data.SqlClient.resources.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\es\Microsoft.Data.SqlClient.resources.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\it\Microsoft.Data.SqlClient.resources.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Umar practice\Tasks\CRUD-WebService\CRUD-WebService\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll

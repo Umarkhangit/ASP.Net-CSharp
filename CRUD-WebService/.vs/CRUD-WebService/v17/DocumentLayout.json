@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Umar practice\\Tasks\\CRUD-WebService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42889F3E-BB21-45C8-805C-DB98645DD9BC}|CRUD-WebService\\CRUD-WebService.csproj|D:\\Umar practice\\Tasks\\CRUD-WebService\\crud-webservice\\employees.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42889F3E-BB21-45C8-805C-DB98645DD9BC}|CRUD-WebService\\CRUD-WebService.csproj|solutionrelative:crud-webservice\\employees.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42889F3E-BB21-45C8-805C-DB98645DD9BC}|CRUD-WebService\\CRUD-WebService.csproj|D:\\Umar practice\\Tasks\\CRUD-WebService\\crud-webservice\\employeesql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42889F3E-BB21-45C8-805C-DB98645DD9BC}|CRUD-WebService\\CRUD-WebService.csproj|solutionrelative:crud-webservice\\employeesql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42889F3E-BB21-45C8-805C-DB98645DD9BC}|CRUD-WebService\\CRUD-WebService.csproj|D:\\Umar practice\\Tasks\\CRUD-WebService\\crud-webservice\\employeeui\\employeecrud.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42889F3E-BB21-45C8-805C-DB98645DD9BC}|CRUD-WebService\\CRUD-WebService.csproj|solutionrelative:crud-webservice\\employeeui\\employeecrud.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42889F3E-BB21-45C8-805C-DB98645DD9BC}|CRUD-WebService\\CRUD-WebService.csproj|d:\\umar practice\\tasks\\crud-webservice\\crud-webservice\\employeeui\\employeecrud.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{42889F3E-BB21-45C8-805C-DB98645DD9BC}|CRUD-WebService\\CRUD-WebService.csproj|solutionrelative:crud-webservice\\employeeui\\employeecrud.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42889F3E-BB21-45C8-805C-DB98645DD9BC}|CRUD-WebService\\CRUD-WebService.csproj|D:\\Umar practice\\Tasks\\CRUD-WebService\\crud-webservice\\datasets.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{42889F3E-BB21-45C8-805C-DB98645DD9BC}|CRUD-WebService\\CRUD-WebService.csproj|solutionrelative:crud-webservice\\datasets.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42889F3E-BB21-45C8-805C-DB98645DD9BC}|CRUD-WebService\\CRUD-WebService.csproj|D:\\Umar practice\\Tasks\\CRUD-WebService\\crud-webservice\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{42889F3E-BB21-45C8-805C-DB98645DD9BC}|CRUD-WebService\\CRUD-WebService.csproj|solutionrelative:crud-webservice\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Umar practice\\Tasks\\CRUD-WebService\\CRUD-WebService\\Web.config",
+              "RelativeDocumentMoniker": "CRUD-WebService\\Web.config",
+              "ToolTip": "D:\\Umar practice\\Tasks\\CRUD-WebService\\CRUD-WebService\\Web.config",
+              "RelativeToolTip": "CRUD-WebService\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-17T07:23:33.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataSets.xsd",
+              "DocumentMoniker": "D:\\Umar practice\\Tasks\\CRUD-WebService\\CRUD-WebService\\DataSets.xsd",
+              "RelativeDocumentMoniker": "CRUD-WebService\\DataSets.xsd",
+              "ToolTip": "D:\\Umar practice\\Tasks\\CRUD-WebService\\CRUD-WebService\\DataSets.xsd",
+              "RelativeToolTip": "CRUD-WebService\\DataSets.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-09-14T06:27:58.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeSQL.cs",
+              "DocumentMoniker": "D:\\Umar practice\\Tasks\\CRUD-WebService\\CRUD-WebService\\EmployeeSQL.cs",
+              "RelativeDocumentMoniker": "CRUD-WebService\\EmployeeSQL.cs",
+              "ToolTip": "D:\\Umar practice\\Tasks\\CRUD-WebService\\CRUD-WebService\\EmployeeSQL.cs",
+              "RelativeToolTip": "CRUD-WebService\\EmployeeSQL.cs",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAAwJUAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T09:16:09.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employees.asmx.cs",
+              "DocumentMoniker": "D:\\Umar practice\\Tasks\\CRUD-WebService\\CRUD-WebService\\Employees.asmx.cs",
+              "RelativeDocumentMoniker": "CRUD-WebService\\Employees.asmx.cs",
+              "ToolTip": "D:\\Umar practice\\Tasks\\CRUD-WebService\\CRUD-WebService\\Employees.asmx.cs",
+              "RelativeToolTip": "CRUD-WebService\\Employees.asmx.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAzwCEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T10:04:10.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeCRUD.aspx",
+              "DocumentMoniker": "D:\\Umar practice\\Tasks\\CRUD-WebService\\CRUD-WebService\\EmployeeUI\\EmployeeCRUD.aspx",
+              "RelativeDocumentMoniker": "CRUD-WebService\\EmployeeUI\\EmployeeCRUD.aspx",
+              "ToolTip": "D:\\Umar practice\\Tasks\\CRUD-WebService\\CRUD-WebService\\EmployeeUI\\EmployeeCRUD.aspx",
+              "RelativeToolTip": "CRUD-WebService\\EmployeeUI\\EmployeeCRUD.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-28T06:57:41.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeCRUD.aspx.cs",
+              "DocumentMoniker": "D:\\Umar practice\\Tasks\\CRUD-WebService\\CRUD-WebService\\EmployeeUI\\EmployeeCRUD.aspx.cs",
+              "RelativeDocumentMoniker": "CRUD-WebService\\EmployeeUI\\EmployeeCRUD.aspx.cs",
+              "ToolTip": "D:\\Umar practice\\Tasks\\CRUD-WebService\\CRUD-WebService\\EmployeeUI\\EmployeeCRUD.aspx.cs",
+              "RelativeToolTip": "CRUD-WebService\\EmployeeUI\\EmployeeCRUD.aspx.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAqwDQAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:49:35.994Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
